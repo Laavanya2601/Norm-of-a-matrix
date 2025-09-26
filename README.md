@@ -64,15 +64,15 @@ print(round(r,2))
 ## Output:
 
 ### 1-Norm of a Matrix
+<img width="1244" height="845" alt="Screenshot 2025-09-25 231159" src="https://github.com/user-attachments/assets/f797cb54-f594-4485-86bc-5ca94dd0149c" />
 
-<img width="725" height="231" alt="Screenshot 2025-09-17 060943" src="https://github.com/user-attachments/assets/0d9d5ca8-32af-4724-8f75-fc8dc956e642" />
 
 ### 2-Norm of a Matrix
-<img width="611" height="274" alt="Screenshot 2025-09-17 060949" src="https://github.com/user-attachments/assets/624393e8-9f9e-4e32-8bfa-4af306e94e84" />
+<img width="1249" height="857" alt="Screenshot 2025-09-25 231214" src="https://github.com/user-attachments/assets/fb5b2940-00ee-49a2-aeff-0d401bc216b7" />
 
 
 ### Infinity Norm of a Matrix
-<img width="688" height="217" alt="Screenshot 2025-09-17 060953" src="https://github.com/user-attachments/assets/7e1a18de-dd17-4ba6-bf47-2aec1e661777" />
+<img width="1237" height="882" alt="Screenshot 2025-09-25 231225" src="https://github.com/user-attachments/assets/d9c67b98-cbc9-4194-8e7c-fd004d8c30be" />
 
 
 ## Result
